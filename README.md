@@ -1,2 +1,3 @@
 # portfolio
-Portfolio website for Shruthi S Nair with resume and project highlights.
+
+Portfolio website for Sruthi S Nair with resume and project highlights.
